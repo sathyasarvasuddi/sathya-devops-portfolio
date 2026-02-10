@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Node (if any later)
+node_modules/
+
+# IDE
+.vscode/
